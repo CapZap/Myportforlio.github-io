@@ -2,7 +2,7 @@
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
-	font-family: arial, black;
+	font-family: bradley hand, cursive;
 }
 body{
 	background:#080808;
@@ -203,6 +203,11 @@ nav ul li:hover::after{
 }
 .A4horizontal{
 	width: 400px;
+	height: 80vh;
+	margin: 30px;
+}
+.500{
+	width: 80px;
 	height: 80vh;
 	margin: 30px;
 }
