@@ -203,10 +203,10 @@ nav ul li:hover::after{
 }
 .A4horizontal{
 	width: 400px;
-	height: 80vh;
+	height: 90vh;
 	margin: 30px;
 }
-.500{
+.five{
 	width: 80px;
 	height: 80vh;
 	margin: 30px;
