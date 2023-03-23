@@ -187,29 +187,29 @@ nav ul li:hover::after{
 	margin: 30px;
 }
 .horizontal{
-	width: 600px;
-	height: 50vh;
-	margin: 30px;
+    width: 50%;
+    height: 50%;
+    margin: 30px;
 }
 .vertical{
-	width: 400px;
-	height: 80vh;
-	margin: 30px;
+	    width: 50%;
+    height: 50%;
+    margin: 30px;
 }
 .A4vertical{
-	width: 370px;
-	height: 70vh;
-	margin: 30px;
+	    width: 50%;
+    height: 50%;
+    margin: 30px;
 }
 .A4horizontal{
-	width: 400px;
-	height: 90vh;
-	margin: 30px;
+	    width: 50%;
+    height: 50%;
+    margin: 30px;
 }
 .five{
-	width: 80px;
-	height: 80vh;
-	margin: 30px;
+	width: 50%;
+    height: 50%;
+    margin: 30px;
 }
 .descriptions{
 	margin-top:15px;
