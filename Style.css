@@ -4,6 +4,9 @@
 	box-sizing: border-box;
 	font-family: arial, black;
 }
+html{
+	scroll-behaviour: smooth;
+}
 body{
 	background:#080808;
 	color:#ffff;
