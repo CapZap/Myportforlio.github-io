@@ -227,9 +227,7 @@ nav ul li:hover::after{
 	flex-basis:60%;
 }
 .contact-left p{
-	margin-top:30px;
-}
-.contact-left p{
+	font-size: 20px;
 	margin-top:30px;
 }
 .contact_logo{
@@ -255,7 +253,7 @@ form input, form textarea{
 	font-size:18px;
 	border-radius:6px;
 }
-form btn2{
+form .btn2{
 	padding:14px 60px;
 	font-size:18px;
 	margin-top:20px;
